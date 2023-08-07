@@ -292,7 +292,7 @@ hr.hr-heading {
 	border: 1px solid #4b4b54;
 	border-radius: 0;
 	background-color: #303036;
-	background-image: url(background.jpg);
+	background-image: url("background.jpg");
 	color: #efefef;
 }
 
